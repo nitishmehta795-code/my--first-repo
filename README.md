@@ -1,2 +1,2 @@
-# my--first-repo
-"My learning journey as a developer"
+# My First Repo
+Hi, I'm Nitish. I'm learning Git, GitHub and coding.
